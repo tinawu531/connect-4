@@ -175,7 +175,7 @@ function handleClick(evt) {
     //   } else {
     //     currPlayer = 1
     //     }
-    }
+    } 
   
   
 
